@@ -1,4 +1,4 @@
-Implements [this tutorial](https://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-s3.html) in CDK.
+Implements the GET methods in [this tutorial](https://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-s3.html) using CDK.
 
 Just run `cdk deploy`.
 
