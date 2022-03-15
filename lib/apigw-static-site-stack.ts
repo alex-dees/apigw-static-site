@@ -67,7 +67,6 @@ export class ApigwStaticSiteStack extends cdk.Stack {
   }  
 }
 
-
 function lsBuckets(resource: apigw.IResource){
   const integration = {
     ...s3Integration, 

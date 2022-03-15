@@ -1,3 +1,5 @@
+Implements [this tutorial](https://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-s3.html) in CDK.
+
 Just run `cdk deploy`.
 
 The CloudFormation stack will include an API output.
